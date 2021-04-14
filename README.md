@@ -1,5 +1,7 @@
 # MyApp
-npm install [to get this repo working]
+npm install
+
+ [to get this repo working]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
